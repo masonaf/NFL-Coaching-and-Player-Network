@@ -615,13 +615,13 @@ coach_data = [
 ]
 
 import os
-os.makedirs('/home/claude/nfl_network/data', exist_ok=True)
+os.makedirs('data', exist_ok=True)
 
 df_r = pd.DataFrame(roster_data, columns=["player_id","name","position","college","team","year"])
 df_c = pd.DataFrame(coach_data,  columns=["team","year","head_coach"])
 
-df_r.to_csv('/home/claude/nfl_network/data/rosters.csv', index=False)
-df_c.to_csv('/home/claude/nfl_network/data/coaches.csv', index=False)
+df_r.to_csv('data/rosters.csv', index=False)
+df_c.to_csv('data/coaches.csv', index=False)
 print(f"Wrote {len(df_r)} roster rows, {len(df_c)} coach rows")
 print(f"Players: {df_r['player_id'].nunique()}")
 print(f"Seasons: {df_r['year'].min()}-{df_r['year'].max()}")

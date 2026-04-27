@@ -48,7 +48,7 @@ def seeded_data():
         for p in [rosters_path, coaches_path]:
             if os.path.exists(p):
                 os.remove(p)
-        subprocess.run(["python", gen_script], check=True)
+        subprocess.run(["python3", gen_script], check=True)
     else:
         for p in [rosters_path, coaches_path]:
             if os.path.exists(p):

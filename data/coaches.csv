@@ -1,449 +1,190 @@
 team,year,head_coach
-PIT,2010,Mike Tomlin
-PHI,2010,Andy Reid
-LAC,2010,Unknown
-BLT,2010,Unknown
-DEN,2010,Josh McDaniels
-TB,2010,Unknown
-CLV,2010,Unknown
-WAS,2010,Unknown
-JAX,2010,Unknown
-DAL,2010,Jason Garrett
-NYJ,2010,Unknown
-NO,2010,Sean Payton
-CHI,2010,Unknown
-TEN,2010,Unknown
-GB,2010,Mike McCarthy
-ARZ,2010,Unknown
-NE,2010,Bill Belichick
-MIN,2010,Unknown
-ATL,2010,Unknown
-DET,2010,Jim Schwartz
-MIA,2010,Unknown
-SEA,2010,Pete Carroll
-CAR,2010,Unknown
-CIN,2010,Marvin Lewis
-IND,2010,Jim Caldwell
-BUF,2010,Unknown
-SF,2010,Mike Singletary
-HST,2010,Unknown
-KC,2010,Todd Haley
-SL,2010,Unknown
-NYG,2010,Tom Coughlin
-LV,2010,Unknown
-SF,2011,Jim Harbaugh
-BLT,2011,Unknown
-DEN,2011,John Fox
-TB,2011,Unknown
-PIT,2011,Mike Tomlin
-DAL,2011,Jason Garrett
-NYJ,2011,Unknown
-IND,2011,Jim Caldwell
-CLV,2011,Unknown
-HST,2011,Unknown
-GB,2011,Mike McCarthy
-NE,2011,Bill Belichick
-WAS,2011,Unknown
-ATL,2011,Unknown
-KC,2011,Todd Haley
-DET,2011,Jim Schwartz
-SL,2011,Unknown
-TEN,2011,Unknown
-ARZ,2011,Unknown
-NO,2011,Sean Payton
-MIN,2011,Unknown
-CHI,2011,Unknown
-CAR,2011,Ron Rivera
-BUF,2011,Unknown
-LAC,2011,Unknown
-NYG,2011,Tom Coughlin
-MIA,2011,Unknown
-JAX,2011,Unknown
-CIN,2011,Marvin Lewis
-LV,2011,Unknown
-PHI,2011,Andy Reid
-SEA,2011,Pete Carroll
-SF,2012,Jim Harbaugh
-BLT,2012,Unknown
-DEN,2012,John Fox
-TB,2012,Unknown
-PIT,2012,Mike Tomlin
-CLV,2012,Unknown
-GB,2012,Mike McCarthy
-WAS,2012,Unknown
-ATL,2012,Unknown
-DET,2012,Jim Schwartz
-TEN,2012,Unknown
-ARZ,2012,Unknown
-SEA,2012,Pete Carroll
-CHI,2012,Unknown
-DAL,2012,Jason Garrett
-BUF,2012,Unknown
-LAC,2012,Unknown
-IND,2012,Chuck Pagano
-MIN,2012,Unknown
-JAX,2012,Unknown
-HST,2012,Unknown
-NE,2012,Bill Belichick
-LV,2012,Unknown
-NYG,2012,Tom Coughlin
-PHI,2012,Andy Reid
-CAR,2012,Ron Rivera
-KC,2012,Romeo Crennel
-CIN,2012,Marvin Lewis
-NO,2012,Sean Payton
-NYJ,2012,Unknown
-MIA,2012,Unknown
-SL,2012,Unknown
-DET,2013,Jim Schwartz
-DEN,2013,John Fox
-SF,2013,Jim Harbaugh
-WAS,2013,Unknown
-ATL,2013,Mike Smith
-IND,2013,Chuck Pagano
-DAL,2013,Jason Garrett
-CHI,2013,Unknown
-BUF,2013,Unknown
-BLT,2013,Unknown
-LV,2013,Unknown
-JAX,2013,Unknown
-TB,2013,Unknown
-ARZ,2013,Unknown
-PIT,2013,Mike Tomlin
-NO,2013,Sean Payton
-NE,2013,Bill Belichick
-HST,2013,Unknown
-PHI,2013,Chip Kelly
-CAR,2013,Ron Rivera
-GB,2013,Mike McCarthy
-NYG,2013,Tom Coughlin
-CIN,2013,Marvin Lewis
-TEN,2013,Unknown
-CLV,2013,Unknown
-SL,2013,Unknown
-LAC,2013,Unknown
-NYJ,2013,Unknown
-MIA,2013,Unknown
-SEA,2013,Pete Carroll
-MIN,2013,Unknown
-KC,2013,Andy Reid
-SF,2014,Jim Harbaugh
-IND,2014,Chuck Pagano
-DEN,2014,John Fox
-LV,2014,Unknown
-ARZ,2014,Unknown
-NO,2014,Sean Payton
-NE,2014,Bill Belichick
-HST,2014,Unknown
-CHI,2014,Unknown
-NYJ,2014,Unknown
-BLT,2014,Unknown
-DET,2014,Jim Caldwell
-WAS,2014,Unknown
-ATL,2014,Mike Smith
-SL,2014,Unknown
-PIT,2014,Mike Tomlin
-CLV,2014,Unknown
-GB,2014,Mike McCarthy
-LAC,2014,Unknown
-TB,2014,Lovie Smith
-PHI,2014,Chip Kelly
-JAX,2014,Unknown
-DAL,2014,Jason Garrett
-CAR,2014,Ron Rivera
-NYG,2014,Tom Coughlin
-CIN,2014,Marvin Lewis
-SEA,2014,Pete Carroll
-TEN,2014,Unknown
-MIN,2014,Mike Zimmer
-MIA,2014,Unknown
-BUF,2014,Unknown
-KC,2014,Andy Reid
-SF,2015,Jim Tomsula
-IND,2015,Chuck Pagano
-DEN,2015,Gary Kubiak
-LV,2015,Unknown
-ARZ,2015,Unknown
-ATL,2015,Dan Quinn
-NE,2015,Bill Belichick
-HST,2015,Unknown
-PIT,2015,Mike Tomlin
-BLT,2015,Unknown
-NO,2015,Sean Payton
-MIN,2015,Mike Zimmer
-BUF,2015,Rex Ryan
-GB,2015,Mike McCarthy
-CLV,2015,Unknown
-PHI,2015,Chip Kelly
-LAC,2015,Unknown
-JAX,2015,Unknown
-DAL,2015,Jason Garrett
-CAR,2015,Ron Rivera
-NYG,2015,Tom Coughlin
-DET,2015,Jim Caldwell
-NYJ,2015,Todd Bowles
-SL,2015,Unknown
-CHI,2015,Unknown
-WAS,2015,Unknown
-MIA,2015,Joe Philbin
-KC,2015,Andy Reid
-CIN,2015,Marvin Lewis
-TB,2015,Lovie Smith
-SEA,2015,Pete Carroll
-TEN,2015,Unknown
-SF,2016,Chip Kelly
-IND,2016,Chuck Pagano
-ARI,2016,Bruce Arians
-ATL,2016,Dan Quinn
-NE,2016,Bill Belichick
-LV,2016,Unknown
-HOU,2016,Bill O'Brien
-PIT,2016,Mike Tomlin
-BAL,2016,John Harbaugh
-NO,2016,Sean Payton
-MIN,2016,Mike Zimmer
-GB,2016,Mike McCarthy
-CLE,2016,Unknown
-PHI,2016,Doug Pederson
-LAC,2016,Unknown
-DAL,2016,Jason Garrett
-WAS,2016,Unknown
-NYG,2016,Ben McAdoo
-TEN,2016,Mike Mularkey
-DET,2016,Jim Caldwell
-NYJ,2016,Todd Bowles
-CAR,2016,Ron Rivera
-LA,2016,Jeff Fisher
-TB,2016,Dirk Koetter
-CIN,2016,Marvin Lewis
-SEA,2016,Pete Carroll
-MIA,2016,Adam Gase
-BUF,2016,Rex Ryan
-KC,2016,Andy Reid
-CHI,2016,Unknown
-DEN,2016,Gary Kubiak
-JAX,2016,Unknown
-ARI,2017,Bruce Arians
-IND,2017,Chuck Pagano
-NE,2017,Bill Belichick
-LV,2017,Unknown
-HOU,2017,Bill O'Brien
-NO,2017,Sean Payton
-ATL,2017,Dan Quinn
-CAR,2017,Ron Rivera
-DET,2017,Jim Caldwell
-NYJ,2017,Todd Bowles
-LAC,2017,Unknown
-MIN,2017,Mike Zimmer
-BUF,2017,Sean McDermott
-DAL,2017,Jason Garrett
-BAL,2017,John Harbaugh
-PHI,2017,Doug Pederson
-NYG,2017,Ben McAdoo
-WAS,2017,Unknown
-PIT,2017,Mike Tomlin
-MIA,2017,Adam Gase
-SF,2017,Kyle Shanahan
-KC,2017,Andy Reid
-CIN,2017,Marvin Lewis
-GB,2017,Mike McCarthy
-CHI,2017,Unknown
-LA,2017,Sean McVay
-TEN,2017,Mike Mularkey
-TB,2017,Dirk Koetter
-SEA,2017,Pete Carroll
-JAX,2017,Doug Marrone
-DEN,2017,Vance Joseph
-CLE,2017,Unknown
-ARI,2018,Steve Wilks
-IND,2018,Frank Reich
-NE,2018,Bill Belichick
-SEA,2018,Pete Carroll
-HOU,2018,Bill O'Brien
-NO,2018,Sean Payton
-ATL,2018,Dan Quinn
-CAR,2018,Ron Rivera
-NYJ,2018,Todd Bowles
-LAC,2018,Unknown
-MIN,2018,Mike Zimmer
-BAL,2018,John Harbaugh
+NWE,2001,Bill Belichick
+NWE,2002,Bill Belichick
+NWE,2003,Bill Belichick
+NWE,2004,Bill Belichick
+NWE,2005,Bill Belichick
+NWE,2006,Bill Belichick
+NWE,2007,Bill Belichick
+NWE,2008,Bill Belichick
+NWE,2009,Bill Belichick
+NWE,2010,Bill Belichick
+NWE,2011,Bill Belichick
+NWE,2012,Bill Belichick
+NWE,2013,Bill Belichick
+NWE,2014,Bill Belichick
+NWE,2015,Bill Belichick
+NWE,2016,Bill Belichick
+NWE,2017,Bill Belichick
+NWE,2018,Bill Belichick
+NWE,2019,Bill Belichick
+NWE,2020,Bill Belichick
+NWE,2021,Bill Belichick
+NWE,2022,Bill Belichick
+NWE,2023,Bill Belichick
+RAI,2022,Josh McDaniels
+RAI,2023,Josh McDaniels
+RAI,2019,Jon Gruden
+RAI,2020,Jon Gruden
+RAI,2021,Jon Gruden
+RAI,2014,Tony Sparano
+RAI,2015,Jack Del Rio
+RAI,2016,Jack Del Rio
+RAI,2017,Jack Del Rio
+RAI,2018,Jon Gruden
 DET,2018,Matt Patricia
-PHI,2018,Doug Pederson
-NYG,2018,Pat Shurmur
-PIT,2018,Mike Tomlin
-MIA,2018,Adam Gase
-SF,2018,Kyle Shanahan
-BUF,2018,Sean McDermott
-DAL,2018,Jason Garrett
-WAS,2018,Unknown
-DEN,2018,Vance Joseph
-LV,2018,Unknown
-GB,2018,Mike McCarthy
-KC,2018,Andy Reid
-TB,2018,Dirk Koetter
-LA,2018,Sean McVay
-TEN,2018,Mike Vrabel
-CLE,2018,Unknown
-CIN,2018,Marvin Lewis
-JAX,2018,Doug Marrone
-CHI,2018,Matt Nagy
-IND,2019,Frank Reich
-NE,2019,Bill Belichick
-NO,2019,Sean Payton
-ATL,2019,Dan Quinn
-PHI,2019,Doug Pederson
-DAL,2019,Jason Garrett
-KC,2019,Andy Reid
-HOU,2019,Bill O'Brien
 DET,2019,Matt Patricia
-NYG,2019,Pat Shurmur
-ARI,2019,Kliff Kingsbury
-PIT,2019,Mike Tomlin
-LAC,2019,Unknown
-MIA,2019,Brian Flores
-SF,2019,Kyle Shanahan
-BUF,2019,Sean McDermott
-TEN,2019,Mike Vrabel
-WAS,2019,Bill Callahan
-GB,2019,Matt LaFleur
-LV,2019,Unknown
-LA,2019,Sean McVay
-BAL,2019,John Harbaugh
-SEA,2019,Pete Carroll
-CAR,2019,Ron Rivera
-CLE,2019,Freddie Kitchens
-NYJ,2019,Adam Gase
-CIN,2019,Zac Taylor
-DEN,2019,Vic Fangio
-JAX,2019,Doug Marrone
-MIN,2019,Mike Zimmer
-CHI,2019,Matt Nagy
-TB,2019,Bruce Arians
-IND,2020,Frank Reich
-TB,2020,Bruce Arians
-NO,2020,Sean Payton
-HOU,2020,Bill O'Brien
-LV,2020,Jon Gruden
-KC,2020,Andy Reid
 DET,2020,Matt Patricia
-PHI,2020,Doug Pederson
-ATL,2020,Dan Quinn
-ARI,2020,Kliff Kingsbury
-PIT,2020,Mike Tomlin
-SF,2020,Kyle Shanahan
-BUF,2020,Sean McDermott
-DAL,2020,Mike McCarthy
-TEN,2020,Mike Vrabel
-WAS,2020,Ron Rivera
-GB,2020,Matt LaFleur
-NYJ,2020,Adam Gase
-MIA,2020,Brian Flores
-LA,2020,Sean McVay
-BAL,2020,John Harbaugh
-NYG,2020,Joe Judge
-CHI,2020,Matt Nagy
-SEA,2020,Pete Carroll
-LAC,2020,Anthony Lynn
-NE,2020,Bill Belichick
-CIN,2020,Zac Taylor
-JAX,2020,Doug Marrone
-CAR,2020,Matt Rhule
-MIN,2020,Mike Zimmer
-DEN,2020,Vic Fangio
-CLE,2020,Kevin Stefanski
-TB,2021,Bruce Arians
-NO,2021,Sean Payton
-CHI,2021,Matt Nagy
-ARI,2021,Kliff Kingsbury
-PIT,2021,Mike Tomlin
-SF,2021,Kyle Shanahan
-GB,2021,Matt LaFleur
-LV,2021,Jon Gruden
-CLE,2021,Kevin Stefanski
-WAS,2021,Ron Rivera
-LA,2021,Sean McVay
-BAL,2021,John Harbaugh
-SEA,2021,Pete Carroll
-NE,2021,Bill Belichick
-CIN,2021,Zac Taylor
-TEN,2021,Mike Vrabel
-CAR,2021,Matt Rhule
-HOU,2021,Lovie Smith
-ATL,2021,Arthur Smith
-NYJ,2021,Robert Saleh
-KC,2021,Andy Reid
-MIN,2021,Mike Zimmer
-LAC,2021,Brandon Staley
-NYG,2021,Joe Judge
-MIA,2021,Brian Flores
-BUF,2021,Sean McDermott
+TAM,2014,Lovie Smith
+TAM,2015,Lovie Smith
+TAM,2016,Dirk Koetter
+TAM,2017,Dirk Koetter
+TAM,2018,Dirk Koetter
+TAM,2019,Bruce Arians
+TAM,2020,Bruce Arians
+TAM,2021,Bruce Arians
+TAM,2022,Todd Bowles
+TAM,2023,Todd Bowles
+KAN,2013,Andy Reid
+KAN,2014,Andy Reid
+KAN,2015,Andy Reid
+KAN,2016,Andy Reid
+KAN,2017,Andy Reid
+KAN,2018,Andy Reid
+KAN,2019,Andy Reid
+KAN,2020,Andy Reid
+KAN,2021,Andy Reid
+KAN,2022,Andy Reid
+KAN,2023,Andy Reid
 PHI,2021,Nick Sirianni
-DEN,2021,Vic Fangio
-IND,2021,Frank Reich
-DAL,2021,Mike McCarthy
-JAX,2021,Urban Meyer
-DET,2021,Dan Campbell
-TB,2022,Todd Bowles
-DAL,2022,Mike McCarthy
-ARI,2022,Kliff Kingsbury
-SF,2022,Kyle Shanahan
-GB,2022,Matt LaFleur
-LA,2022,Sean McVay
-BAL,2022,John Harbaugh
-NE,2022,Bill Belichick
-CIN,2022,Zac Taylor
 PHI,2022,Nick Sirianni
-CAR,2022,Matt Rhule
-IND,2022,Frank Reich
-NYJ,2022,Robert Saleh
-KC,2022,Andy Reid
-LAC,2022,Brandon Staley
-JAX,2022,Doug Pederson
-NYG,2022,Brian Daboll
-NO,2022,Dennis Allen
-MIA,2022,Mike McDaniel
-HOU,2022,Lovie Smith
-TEN,2022,Mike Vrabel
-BUF,2022,Sean McDermott
-SEA,2022,Pete Carroll
-CLE,2022,Kevin Stefanski
-PIT,2022,Mike Tomlin
-DEN,2022,Nathaniel Hackett
-MIN,2022,Kevin O'Connell
-WAS,2022,Ron Rivera
-CHI,2022,Matt Eberflus
-DET,2022,Dan Campbell
-ATL,2022,Arthur Smith
-LV,2022,Josh McDaniels
 PHI,2023,Nick Sirianni
-SEA,2023,Pete Carroll
-NYJ,2023,Robert Saleh
-ARI,2023,Jonathan Gannon
-CHI,2023,Matt Eberflus
-TEN,2023,Mike Vrabel
-NYG,2023,Brian Daboll
-CAR,2023,Frank Reich
-CLE,2023,Kevin Stefanski
-ATL,2023,Arthur Smith
-NE,2023,Bill Belichick
-BAL,2023,John Harbaugh
-LA,2023,Sean McVay
-LV,2023,Josh McDaniels
-HOU,2023,DeMeco Ryans
-IND,2023,Unknown
-NO,2023,Dennis Allen
-SF,2023,Kyle Shanahan
-DET,2023,Dan Campbell
-MIA,2023,Mike McDaniel
-BUF,2023,Sean McDermott
-PIT,2023,Mike Tomlin
-DAL,2023,Mike McCarthy
-KC,2023,Andy Reid
-LAC,2023,Brandon Staley
+RAM,2017,Sean McVay
+RAM,2018,Sean McVay
+RAM,2019,Sean McVay
+RAM,2020,Sean McVay
+RAM,2021,Sean McVay
+RAM,2022,Sean McVay
+RAM,2023,Sean McVay
+RAM,2009,Steve Spagnuolo
+RAM,2010,Steve Spagnuolo
+RAM,2016,Jeff Fisher
+CIN,2019,Zac Taylor
+CIN,2020,Zac Taylor
+CIN,2021,Zac Taylor
+CIN,2022,Zac Taylor
 CIN,2023,Zac Taylor
+SFO,2017,Kyle Shanahan
+SFO,2018,Kyle Shanahan
+SFO,2019,Kyle Shanahan
+SFO,2020,Kyle Shanahan
+SFO,2021,Kyle Shanahan
+SFO,2022,Kyle Shanahan
+SFO,2023,Kyle Shanahan
+ATL,2015,Dan Quinn
+ATL,2016,Dan Quinn
+ATL,2017,Dan Quinn
+ATL,2018,Dan Quinn
+MIA,2022,Mike McDaniel
+MIA,2023,Mike McDaniel
+MIA,2019,Brian Flores
+MIA,2020,Brian Flores
+MIA,2021,Brian Flores
+GNB,2019,Matt LaFleur
+GNB,2020,Matt LaFleur
+GNB,2021,Matt LaFleur
+GNB,2022,Matt LaFleur
+GNB,2023,Matt LaFleur
+GNB,2006,Mike McCarthy
+GNB,2010,Mike McCarthy
+GNB,2012,Mike McCarthy
+GNB,2014,Mike McCarthy
+GNB,2016,Mike McCarthy
+GNB,2018,Mike McCarthy
+RAV,2008,John Harbaugh
+RAV,2010,John Harbaugh
+RAV,2012,John Harbaugh
+RAV,2014,John Harbaugh
+RAV,2016,John Harbaugh
+RAV,2018,John Harbaugh
+RAV,2019,John Harbaugh
+RAV,2020,John Harbaugh
+RAV,2021,John Harbaugh
+RAV,2022,John Harbaugh
+RAV,2023,John Harbaugh
+RAV,2024,John Harbaugh
+DEN,2011,John Fox
+DEN,2012,John Fox
+DEN,2013,John Fox
+DEN,2014,John Fox
+DEN,2015,Gary Kubiak
+DEN,2016,Gary Kubiak
+DEN,2017,Vance Joseph
+DEN,2018,Vance Joseph
+DEN,2019,Vic Fangio
+DEN,2020,Vic Fangio
+DEN,2021,Vic Fangio
+DEN,2022,Nathaniel Hackett
 DEN,2023,Sean Payton
-TB,2023,Todd Bowles
-MIN,2023,Kevin O'Connell
-JAX,2023,Doug Pederson
-GB,2023,Matt LaFleur
-WAS,2023,Ron Rivera
+CLT,1998,Jim Mora
+CLT,2002,Tony Dungy
+CLT,2003,Tony Dungy
+CLT,2004,Tony Dungy
+CLT,2005,Tony Dungy
+CLT,2006,Tony Dungy
+CLT,2007,Tony Dungy
+CLT,2008,Tony Dungy
+CLT,2009,Jim Caldwell
+CLT,2010,Jim Caldwell
+CLT,2012,Chuck Pagano
+CLT,2022,Frank Reich
+PIT,2004,Bill Cowher
+PIT,2006,Bill Cowher
+PIT,2007,Mike Tomlin
+PIT,2008,Mike Tomlin
+PIT,2010,Mike Tomlin
+PIT,2011,Mike Tomlin
+PIT,2013,Mike Tomlin
+PIT,2015,Mike Tomlin
+PIT,2017,Mike Tomlin
+PIT,2018,Mike Tomlin
+PIT,2021,Mike Tomlin
+HOU,2011,Gary Kubiak
+HOU,2013,Bill O'Brien
+HOU,2018,Bill O'Brien
+HOU,2020,Bill O'Brien
+HOU,2023,DeMeco Ryans
+TEN,2016,Mike Mularkey
+TEN,2019,Mike Vrabel
+TEN,2020,Mike Vrabel
+TEN,2021,Mike Vrabel
+JAX,2016,Gus Bradley
+JAX,2018,Doug Marrone
+DET,2009,Jim Schwartz
+DET,2013,Jim Caldwell
+DET,2014,Jim Caldwell
+DET,2016,Jim Caldwell
+DET,2021,Dan Campbell
+DET,2022,Dan Campbell
+DET,2023,Dan Campbell
+NYJ,2019,Adam Gase
+NYJ,2022,Robert Saleh
+NYJ,2023,Robert Saleh
+NYG,2023,Brian Daboll
+SEA,2010,Pete Carroll
+SEA,2012,Pete Carroll
+SEA,2013,Pete Carroll
+SEA,2015,Pete Carroll
+SEA,2017,Pete Carroll
+SEA,2019,Pete Carroll
+SEA,2021,Pete Carroll
+SEA,2023,Pete Carroll
+ARI,2013,Bruce Arians
+ARI,2017,Bruce Arians
+ARI,2021,Kliff Kingsbury
+ARI,2022,Kliff Kingsbury
+WAS,2018,Jay Gruden
+CAR,2017,Ron Rivera
+CAR,2019,Ron Rivera
+CAR,2021,Matt Rhule
+CAR,2022,Matt Rhule
