@@ -15,18 +15,18 @@ Unlike a simple "teammates graph," this project uses a bipartite graph connectin
 
 ## Quick Start
 
-```bash
 # 1. Install dependencies
 pip install -r requirements.txt
 
-# 2. Seed demo data (instant — no scraping required)
-python data_fetcher.py --demo
+# 2. Fetch real NFLverse data (~30 seconds)
+python3 data_fetcher.py --fetch --start 2010 --end 2023
 
 # 3. Launch the Streamlit app
 streamlit run app.py
 
-# 4. (Optional) Scrape full PFR data — takes ~20 min
-python data_fetcher.py --start 2010 --end 2023
+# Optional: use offline seed data instead of fetching
+python3 data_fetcher.py --demo
+
 ```
 
 ---
@@ -72,8 +72,14 @@ nfl_network/
 
 ## Data Sources
 
-- **Primary:** [Pro-Football-Reference](https://www.pro-football-reference.com) — rosters, team history, coaching staff
-- **Seed data:** Curated 2015–2023 data covering major coaching trees (Belichick, Reid, McVay, Shanahan, Harbaugh)
+-**Roster Data:** [nflverse](https://github.com/nflverse/nflverse-data)  
+Open-source NFL roster CSVs maintained by the nflverse team. Provides player 
+name, position, team, college, and NFL player ID for every season going back 
+to 1999. Downloaded via `data_fetcher.py --fetch`.
+
+**Coaching Data:** Hardcoded lookup table in `data_fetcher.py`  
+Head coach per team per season (2000–2023) for all 32 NFL teams, compiled 
+from public NFL records.
 
 ---
 
